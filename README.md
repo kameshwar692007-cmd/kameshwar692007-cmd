@@ -42,11 +42,11 @@ class Kameshwar:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kameshwar-m)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kameshwar-m)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kameshwar-m)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kameshwar@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kameshwar-m)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kameshwar-m-692007-cit)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kameshwar_m)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kameshwar692007-cmd)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kameshwar692007@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/kameshwar-m](https://x.com/KAMESHWAR197360))
 
 </div>
 
@@ -94,13 +94,13 @@ class Kameshwar:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kameshwar-m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&rank_icon=github" width="48%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=kameshwar692007-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&rank_icon=github" width="48%" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=kameshwar-m&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="48%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kameshwar692007-cmd&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="48%" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kameshwar-m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="50%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kameshwar692007-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="50%" alt="Top Languages" />
 
 </div>
 
@@ -151,12 +151,12 @@ class Kameshwar:
 <div align="center">
 
 ```
- ██████╗ ███████╗███████╗ ██████╗  ██████╗
-██╔════╝ ██╔════╝██╔════╝██╔═══██╗██╔════╝
-██║  ███╗███████╗███████╗██║   ██║██║
-██║   ██║╚════██║╚════██║██║   ██║██║
-╚██████╔╝███████║███████║╚██████╔╝╚██████╗
- ╚═════╝ ╚══════╝╚══════╝ ╚═════╝  ╚═════╝
+ ██████╗  ███████╗ ███████╗  ██████╗   ██████╗
+██╔════╝  ██╔════╝ ██╔════╝ ██╔═══██╗ ██╔════╝
+██║  ███╗ ███████╗ ███████╗ ██║   ██║ ██║
+██║   ██║ ╚════██║ ╚════██║ ██║   ██║ ██║
+╚██████╔╝ ███████║ ███████║ ╚██████╔╝ ╚██████╗
+ ╚═════╝  ╚══════╝ ╚══════╝  ╚═════╝   ╚═════╝
           GirlScript Summer of Code 2026
 ```
 
@@ -216,7 +216,7 @@ class Kameshwar:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kameshwar-m&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kameshwar692007-cmd&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="95%" />
 
 </div>
 
