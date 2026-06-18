@@ -98,7 +98,7 @@ class Kameshwar:
 &nbsp;
 
 <img
-  src="https://github-readme-streak-stats.herokuapp.com?username=kameshwar692007-cmd&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff"
+  src="https://streak-stats.demolab.com?user=kameshwar692007-cmd&theme=tokyonight&hide_border=true&background=0d1117"
   width="48%"
   alt="GitHub Streak"
 />
