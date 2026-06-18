@@ -96,7 +96,9 @@ class Kameshwar:
 
 <img src="https://github-readme-stats.vercel.app/api?username=kameshwar692007-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&rank_icon=github" width="48%" alt="GitHub Stats" />
 &nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com?username=kameshwar692007-cmd&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" width="48%" alt="GitHub Streak" />
 
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kameshwar692007-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="50%" alt="Top Languages" />
 
